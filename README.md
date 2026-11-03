@@ -1,10 +1,14 @@
 # Workflow: Merge vs Rebase und weiteres für Entwicklerteams
 
-## Merge vs Rebase Discussion
+## Vorarbeit
+
+Lest folgende zwei Artikel, um mit dem Thema vertraut zu werden:
+
+### Merge vs Rebase Discussion
 
 https://shiftasia.com/community/git-merge-vs-rebase-the-great-debate-and-which-one-you-should-use-2/
 
-## Anleitung "How to rebase"
+### Anleitung "How to rebase"
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
