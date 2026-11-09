@@ -121,3 +121,33 @@ Yoyo, drink holy
 another reminder to drink holy
 Zelda OoT came out recently
 Zelda OoT came out recently
+
+## Git Config
+
+Kaans Defaults
+
+```bash
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	email = kaaninho@gmail.com
+	name = Kaan Sahin
+[submodule]
+	recurse = true
+[merge]
+        conflictstyle = zdiff3
+[init]
+	defaultBranch = main
+[rerere]
+	enabled = true
+[pull]
+	rebase = true
+# Better algorithm, see: https://adamj.eu/tech/2024/01/18/git-improve-diff-histogram/
+[diff]
+        algorithm = histogram
+[rebase]
+        autoStash = true
+```
