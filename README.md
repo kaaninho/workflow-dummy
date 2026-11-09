@@ -12,7 +12,6 @@ https://shiftasia.com/community/git-merge-vs-rebase-the-great-debate-and-which-o
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
-
 ## Mein Vorschlag: Rebase-Vorgehen
 
 (so wie es in der Anleitung eigentlich steht)
