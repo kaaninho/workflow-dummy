@@ -86,7 +86,6 @@ Befehlen:
 | `fixup`  | mit vorherigem Commit vereinen, eigene Message verwerfen |
 | `drop`   | Commit entfernen                                         |
 
-
 #### Rebase der letzten X Commits
 
 ```bash
