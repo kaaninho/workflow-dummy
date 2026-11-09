@@ -1,6 +1,6 @@
 # Workflow: Merge vs Rebase und weiteres für Entwicklerteams
 
-## Vorarbeit
+## Vorarbeiten
 
 Lest folgende zwei Artikel, um mit dem Thema vertraut zu werden:
 
