@@ -4,7 +4,7 @@
 
 Lest folgende zwei Artikel, um mit dem Thema vertraut zu werden:
 
-### Merge vs Rebase Discussion
+### Merge vs Rebase Argument
 
 https://shiftasia.com/community/git-merge-vs-rebase-the-great-debate-and-which-one-you-should-use-2/
 
